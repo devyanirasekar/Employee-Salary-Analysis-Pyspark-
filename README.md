@@ -31,13 +31,16 @@ The dataset contains employee details:
 6. Write results into Databricks table  
 
 ⚙️ Key Operations
+
 🔹 Data Transformation
   - select()
   - filter()
+    
 🔹 Aggregation
   - avg()
   - sum()
   - count()
+    
 🔹 Sorting
   - orderBy()
 
